@@ -1,0 +1,6 @@
+
+tr:nth-child(odd){background: #AFEEEE; }
+tr:nth-child(even){background-color: #FFB6C1; }
+tr:hover{background-color: #FFFFFF}
+
+
